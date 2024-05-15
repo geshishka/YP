@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+//ХУЙНЯ, ПЕРЕДЕЛАТЬ
 public class CustomBaseNumber
 {
     public int Base { get; private set; }
